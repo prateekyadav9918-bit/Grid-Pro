@@ -32,7 +32,6 @@ Download the latest APK from the Releases section.
 Performance and available features may vary depending on device hardware and Camera2 API implementation.
 
 ## Version
-
 Grid-Pro v1.0.1
 
 ## Update
