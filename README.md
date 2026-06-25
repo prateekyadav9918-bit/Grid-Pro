@@ -33,7 +33,6 @@ Performance and available features may vary depending on device hardware and Cam
 
 ## Version
 
-Grid-Pro v1.0
 Grid-Pro v1.0.1
 
 ## Update
