@@ -34,3 +34,15 @@ Performance and available features may vary depending on device hardware and Cam
 ## Version
 
 Grid-Pro v1.0
+Grid-Pro v1.0.1
+
+## Update
+## What's New
+
+- Improved HLG video recording pipeline
+- Fixed LUT preview and export behavior
+- Improved video color processing
+- Enhanced recording stability
+- UI refinements and bug fixes
+- General performance improvements
+  
