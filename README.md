@@ -31,6 +31,14 @@ Download the latest APK from the Releases section.
 
 Performance and available features may vary depending on device hardware and Camera2 API implementation.
 
+## Community
+
+💬 **Join the Grid-Pro Discord**
+
+Get beta updates, report bugs, request features, and connect with other users.
+
+**Discord:** https://discord.gg/yourInviteCode
+
 ## Version
 Grid-Pro v1.4.0-beta 1(preview)
 
