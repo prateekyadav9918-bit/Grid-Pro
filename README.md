@@ -37,10 +37,14 @@ Grid-Pro v1.0.1
 ## Update
 ## What's New
 
-- Improved HLG video recording pipeline
-- Fixed LUT preview and export behavior
-- Improved video color processing
-- Enhanced recording stability
-- UI refinements and bug fixes
-- General performance improvements
+- ✨ Added Cine Mode (Linear Tone Mode) for a flatter, grading friendly image.
+-🛡️ Added EIS and OIS stabilization support.
+-🎥 Improved HDR video recording pipeline and overall HDR performance.
+-🎨 Improved LUT processing performance.
+-📹 Added LUT embedded video recording.(multiple lut import available)
+-📸 Added High Resolution Snapshot Mode with LUT support.
+- Fixed resolution and bitrate mismatch.
+- Added adaptive memory allocation for improved performance on modern devices.
+- Improved recording stability and reduced dropped frames.
+- General bug fixes and UI refinements.
   
