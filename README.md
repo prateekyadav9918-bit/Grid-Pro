@@ -37,7 +37,7 @@ Performance and available features may vary depending on device hardware and Cam
 
 Get beta updates, report bugs, request features, and connect with other users.
 
-**Discord:** https://discord.gg/yourInviteCode
+**Discord:** https://discord.gg/vWEnC68RA
 
 ## Version
 Grid-Pro v1.4.0-beta 1(preview)
