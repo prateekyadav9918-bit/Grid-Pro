@@ -1,5 +1,5 @@
 # Grid-Pro
-Grid-Pro is a professional camera app for Android 12+ that unlocks advanced Camera2 API capabilities. It features universal hardware-dependent 10-bit HDR video recording, wide color gamut capture, QuickTime-compatible MOV recording, JPEG snapshots during video capture, LUT support, and comprehensive manual controls for professional-grade imaging.
+Grid-Pro is a professional camera app for Android 12+ that unlocks advanced Camera2 API capabilities. It features universal hardware-dependent 10-bit HDR video recording, wide color gamut capture, compatible MOV recording, JPEG snapshots during video capture, LUT support, and comprehensive manual controls for professional-grade imaging.
 
 Designed for creators and enthusiasts, Grid-Pro brings powerful video and photography tools together in a streamlined, high-performance camera experience.
 
